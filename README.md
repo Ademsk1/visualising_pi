@@ -1,4 +1,6 @@
 # visualising_pi
+![alt text](https://github.com/Ademsk1/visualising_pi/blob/main/30s.png?raw=true)
+
 Visualise the irrationality of Pi through this Processing software.
 
 The animation maps out the following equation:
